@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutu</string>
+    <string name="restart_service">Перезапустить сервис</string>
+    <string name="stop_service">Остановить сервис</string>
+    <string name="service_is_running">Сервис работает в фоновом режиме</string>
+    <string name="fetch_schedule">Загрузить расписание</string>
+    <string name="trips_format_error_message">Неверный формат расписания</string>
+    <string name="fetch_data_error_message">Не удалось загрузить расписание</string>
+    <string name="departure_time">Время отправления</string>
+    <string name="travel_time">В пути</string>
+    <string name="arrival_time">Время прибытия</string>
+    <string name="closest_trip">Ближайший поезд</string>
+    <string name="other_trips">Другие поезда</string>
+</resources>

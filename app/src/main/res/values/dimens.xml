@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_view_margin_start">16dp</dimen>
+    <dimen name="card_view_margin_end">16dp</dimen>
+    <dimen name="card_view_margin_top">8dp</dimen>
+    <dimen name="card_view_margin_bottom">8dp</dimen>
+    <dimen name="card_view_corner_radius">8dp</dimen>
+    <dimen name="card_view_elevation">1dp</dimen>
+    <dimen name="list_item_margin">8dp</dimen>
+    <dimen name="title_margin_start">24dp</dimen>
+    <dimen name="title_margin_end">24dp</dimen>
+    <dimen name="title_margin_top">8dp</dimen>
+    <dimen name="title_margin_bottom">8dp</dimen>
+    <dimen name="trips_recycler_view_margin_top">8dp</dimen>
+    <dimen name="progress_bar_margin_bottom">16dp</dimen>
+</resources>

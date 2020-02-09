@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sectionTitle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/title_margin_start"
+    android:layout_marginEnd="@dimen/title_margin_end"
+    android:layout_marginTop="@dimen/title_margin_top"
+    android:layout_marginBottom="@dimen/title_margin_bottom"
+    android:textAppearance="@style/TextAppearance.AppCompat.Headline">
+
+</TextView>
